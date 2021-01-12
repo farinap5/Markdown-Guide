@@ -102,7 +102,7 @@ print("Hello World!")
 ### Reference:
 Reference to another md page named [[OSINT]].`[[OSINT]]`
 
-[Link](https://www.markdownguide.org/)for another webpage.
+[Link](https://www.markdownguide.org/) for another webpage.
 
 Image `![text](path/image.png)`
 
